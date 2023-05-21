@@ -6,7 +6,7 @@ export function Footer() {
       <div className="grow text-left">
         k20y (
         <A target="_blank" href="https://twitter.com/rauchg">
-          @k206
+          @k20y
         </A>
         )
       </div>
