@@ -9,23 +9,21 @@ import { Footer } from "./footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Guillermo Rauch's blog",
-  description:
-    "Guillermo Rauch is the CEO and founder of Vercel, a software engineer, and the creator of Next.js, Mongoose, Socket.io and other open source libraries.",
+  title: "k20y's website",
+  description: "k20y",
   openGraph: {
-    title: "Guillermo Rauchg's blog",
-    description:
-      "Guillermo Rauch is the CEO and founder of Vercel, a software engineer, and the creator of Next.js, Mongoose, Socket.io and other open source libraries.",
-    url: "https://rauchg.com",
-    siteName: "Guillermo Rauchg's blog",
+    title: "k20y's blog",
+    description: "k20y website",
+    url: "https://k20y.xyz",
+    siteName: "k20y's website",
   },
   twitter: {
     card: "summary_large_image",
-    site: "@rauchg",
-    creator: "@rauchg",
+    site: "@k20y",
+    creator: "@k20y",
   },
   themeColor: "transparent",
-  metadataBase: new URL("https://rauchg.com"),
+  metadataBase: new URL("https://k20y.xyz"),
 };
 
 export default function RootLayout({
