@@ -21,7 +21,8 @@ export function Header() {
           target="_blank"
           className="inline-flex hover:bg-gray-200 dark:hover:bg-[#313131] active:bg-gray-300 dark:active:bg-[#242424] items-center p-2 rounded-sm transition-[background-color] whitespace-nowrap -mr-2"
         >
-          <TweetIcon style={{ marginRight: 4 }} /> Mirror{" "}
+          <TweetIcon style={{ marginRight: 4 }} />
+          Mirror{" "}
         </a>
       </nav>
     </header>
