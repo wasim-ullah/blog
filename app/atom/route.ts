@@ -13,7 +13,7 @@ export async function GET() {
     <updated>${posts[0].date}</updated>
     <id>https://k20y.xyz/</id>
     <author>
-      <name>Guillermo Rauch</name>
+      <name>k20y</name>
       <email>k20y@gmail.com</email>
     </author>
     ${posts.slice(0, max).reduce((acc, post) => {
