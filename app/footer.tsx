@@ -11,8 +11,8 @@ export function Footer() {
         )
       </div>
       <div>
-        <A target="_blank" href="https://github.com/">
-          Source
+        <A target="_blank" href="http://cal.com/wasim/intro">
+          Contact
         </A>
       </div>
     </footer>
