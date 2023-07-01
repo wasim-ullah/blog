@@ -17,7 +17,7 @@ export function Header() {
           About
         </Link>
         <a
-          href="http://twitter.com/wasimxullah"
+          href="https://www.linkedin.com/in/wasim-ullah/"
           target="_blank"
           className="inline-flex hover:bg-gray-200 dark:hover:bg-[#313131] active:bg-gray-300 dark:active:bg-[#242424] items-center p-2 rounded-sm transition-[background-color] whitespace-nowrap -mr-2"
         >
