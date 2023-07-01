@@ -8,7 +8,7 @@ export function Footer() {
       </div>
       <div>        
         <A target="_blank" href="https://cal.com/wasim/intro">
-          Let's Talk!
+          Lets Talk
         </A>
       </div>
     </footer>
