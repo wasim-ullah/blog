@@ -6,8 +6,8 @@ export function Footer() {
       <div className="grow text-left">
         Digital Marketing Professional
       </div>
-      <div>
-        <A target="_blank" href="http://cal.com/wasim/intro">
+      <div>        
+        <A target="_blank" href="https://cal.com/wasim/intro">
           Let's Talk!
         </A>
       </div>
